@@ -4,6 +4,7 @@ from OpenGL.GL import *
 from OpenGL.GLU import *
 import math
 import sys
+import math
 
 def draw_cylinder(radius, height, num_slices):
     r = radius
